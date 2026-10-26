@@ -1,3 +1,3 @@
 birth_year = input ("Enter your birth year: ")
 age = 2026 - int (birth_year)
-print("your age is " + str(age)) 
+print("your age is " + str(age))  
