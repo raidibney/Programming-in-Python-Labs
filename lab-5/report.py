@@ -14,6 +14,7 @@ def classify_performance(average):
         return "Good"
     elif average >= 60:
         return "Satisfactory"
+
     else:
         return "Needs Improvement"
 
